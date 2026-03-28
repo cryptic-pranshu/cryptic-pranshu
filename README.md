@@ -7,7 +7,7 @@
 
 <!-- ████████████████████████  HERO  ████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0d0d0d,50:1a0000,100:0d0d0d&text=PRANSHU-GUPTA&fontSize=54&fontColor=FF0000&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%20%7C%20%20Aspiring%20Red%20Teamer%20%20%7C%20%20Builder&descSize=15&descAlignY=60&descColor=888888&stroke=FF0000&strokeWidth=1" width="100%" alt="Hero Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0d0d0d,50:1a0000,100:0d0d0d&text=PRANSHU-GUPTA&fontSize=54&fontColor=#f7f5f5&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%20%7C%20%20Aspiring%20Red%20Teamer%20%20%7C%20%20Builder&descSize=15&descAlignY=60&descColor=888888&stroke=FF0000&strokeWidth=1" width="100%" alt="Hero Banner"/>
 
 <div align="center">
 

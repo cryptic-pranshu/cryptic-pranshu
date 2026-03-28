@@ -7,12 +7,12 @@
 
 <!-- ████████████████████████  HERO  ████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0d0d0d,50:1a0000,100:0d0d0d&text=PRANSHU-GUPTA&fontSize=54&fontColor=#FF0000&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%20%7C%20%20Aspiring%20Red%20Teamer%20%20%7C%20%20Tech-Enthusiast&descSize=15&descAlignY=60&descColor=888888&stroke=FF0000&strokeWidth=1" width="100%" alt="Hero Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0d0d0d,50:1a0000,100:0d0d0d&text=PRANSHU-GUPTA&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%20%7C%20%20Aspiring%20Red%20Teamer%20%20%7C%20%20Tech-Enthusiast&descSize=15&descAlignY=60&descColor=888888&stroke=FFFFFF&strokeWidth=1" width="100%" alt="Hero Banner"/>
 
 <div align="center">
 
 <!-- Typing SVG — terminal persona -->
-<img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=FF0000&center=true&vCenter=true&width=680&height=52&lines=┌──[cryptic%40kali]─[~%2F]─$;└─$+whoami+%3E+Security+Researcher+%2F+Red+Teamer;└─$+nmap+-sV+-O+--script+vuln+%3Ctarget%3E;Enumerate.+Exploit.+Elevate.+Repeat.;19yo+%7C+Self-Taught+%7C+Always+in+the+Trenches." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/api?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=680&height=52&lines=┌──[cryptic%40kali]─[~%2F]─$;└─$+whoami+%3E+Security+Researcher+%2F+Red+Teamer;└─$+nmap+-sV+-O+--script+vuln+%3Ctarget%3E;Enumerate.+Exploit.+Elevate.+Repeat.;19yo+%7C+Self-Taught+%7C+Always+in+the+Trenches." alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -24,11 +24,11 @@
 <br/><br/>
 
 <!-- Social / Contact quick-links -->
-<a href="https://linkedin.com/in/cryptic-pranshu">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:pranshu0407@gmail.com">
+<a href="mailto:YOUR-EMAIL@HERE">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
@@ -349,6 +349,6 @@
 
 <div align="center">
   <sub>
-    <code>// Cybersecurity Engineer By The Day, Vigilante Hacker By The Night //</code>
+    <code>// cryptic-pranshu · built with intent · designed for the field //</code>
   </sub>
 </div>

@@ -21,11 +21,11 @@
 <br/><br/>
 
 <!-- Social Badges -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">
+<a href="https://in.linkedin.com/in/cryptic-pranshu">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR-EMAIL@HERE">
+<a href="mailto:cryptic.pranshu@gmail.com">
   <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
@@ -312,7 +312,7 @@
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="cryptic.pranshu@gmail.com">
+<a href="mailto:cryptic.pranshu@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
